@@ -47,3 +47,17 @@ include images/figure-wrap.html
 This digital project seeks to trace Lancelot’s emergence in the Arthurian cannon and his rise to become one of its most notable heros. Using a variety of digital methods, it will serve as a repository for works involving Lancelot and visualize different aspects of his trajectory in Arthurian legend including geographical and chronological technologies.
 
 This project is an evolution of my Bachelor of Arts Thesis from Pepperdine University entitled, “Adaptation & Context in Arthurian Legend: Lancelot as Hero in Malory, Tennyson, & White” 
+
+### Margaret Martin Brock Exhibits
+Project Manager and Coding Liaison (2021 – 2022): Margaret Martin Brock Collection: Brock-Ford Exhibit, https://margaretmartinbrock2021.omeka.net/ 
+
+Transcriber, Coder, and Post-Project Editor (2020 – 2022): Margaret Martin Brock Collection: Brock-Nixon Exhibit, https://margaretmartinbrock2020.omeka.net/ 
+
+
+## Research Collaborations
+
+Our Land Book Companion website, ourlandbook.com
+
+Judeo-Arabic Love Poems, https://libraries.wm.edu/judeoarabiclovepoems
+
+Virtual Information Literacy Live Augmented Game Experience (VILLAGE), https://github.com/Syracuse-University-Bird-Libraries/SUL-Escape-Room-VR

@@ -7,9 +7,15 @@ date: 2024-12-02
 
 # Rachel N. Hogan
 
-I am a librarain interested in academic librarianship, information literacy, digital humanites, arts-based research, and arthurian literature.
+I am a librarian interested in academic librarianship, information literacy, digital humanities, arts-based research, and arthurian literature.
 ---
-
+{% include images/figure.html
+  class="center"
+  width="100%"
+  caption="World Cloud for my DH work"
+  alt-text="A word cloud of words associated with my digital humanities work at William & Mary"
+  image-path="/assets/images/dhcloud.png"
+%}
 The cards below are generated automatically from your other pages. Each page that has `homepage: true` in its front matter will appear here as a card. The card's title, summary text, and thumbnail image all come from that page's front matter:
 
 ```yaml

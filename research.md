@@ -54,7 +54,7 @@ Project Manager and Coding Liaison (2021 – 2022): Margaret Martin Brock Collec
 Transcriber, Coder, and Post-Project Editor (2020 – 2022): Margaret Martin Brock Collection: Brock-Nixon Exhibit, https://margaretmartinbrock2020.omeka.net/ 
 
 
-## Research Collaborations
+### Collaborations
 
 Our Land Book Companion website, ourlandbook.com
 

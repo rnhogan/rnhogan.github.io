@@ -48,9 +48,7 @@ Transcription is a fundamental skill in digital humanities work and projects. Re
 
 ### Getting Started with Text Analysis  
 
-Text analysis is the process of exploring written texts to uncover new insights by applying computational techniques that detect patterns, trends, and connections across large sets of documents. Text analysis can reveal patterns not easily discoverable by a single reader across a large collection of documents. Common approaches to text analysis include term and token counting, sentiment analysis, topic modeling, geographic analysis, named entity recognition, and ngrams. 
-
-This workshop will cover text analysis tools and methods. There will be time for hands-on practice with the tools mentioned. 
+Text analysis is the process of exploring written texts to uncover new insights by applying computational techniques that detect patterns, trends, and connections across large sets of documents. Text analysis can reveal patterns not easily discoverable by a single reader across a large collection of documents. Common approaches to text analysis include term and token counting, sentiment analysis, topic modeling, geographic analysis, named entity recognition, and ngrams. This workshop will cover text analysis tools and methods. There will be time for hands-on practice with the tools mentioned. 
 
 ### Crafting and Humanities Data 
 

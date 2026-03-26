@@ -1,20 +1,17 @@
 ---
-title: Creative Work
+title: Praxis and Service
 layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 3
-summary: Replace this with a sentence describing this page — what kind of creative work do you make or curate? This appears on the homepage card.
+summary: I am heavily in programming within my institution and service throughout the profession.
 thumbnail: assets/images/ai-created-kinetic-sculpture.png
 ---
 
-This page is a placeholder for a fourth content area — it's called "Creative Work" here, but it's yours to rename and repurpose. Common uses: a portfolio of creative or artistic projects, a public writing page, a digital projects showcase, a section for journalism or multimedia work.
-
-To rename this page, change the `title` field in the front matter above and update the corresponding entry in `_data/nav-top.yml`.
-
+Blurb about the work that I do an how it realtes to praxis and service.
 ---
 
-## Your Section Title
+## Programming
 
 {% include images/figure.html
   class="left"
@@ -27,12 +24,28 @@ Write a paragraph or two introducing what this page is about. This is a good pag
 
 Replace this text with your own. And if this page doesn't fit your portfolio at all, you can delete this file and remove its entry from `_data/nav-top.yml`.
 
+### Undergraduate Nights
+
+### Book Displays
+
+### Destressing Program at SUNY ESF Libraries
+
+### Diversify It! Reading Challenge
+
+### Draw The Line Comics Contest
+
+### International Love Data Week
+
+### Digital Humanties Discovery Group
+
 ---
 
-## Projects or Works
+## Service
 
-### Item Title
+### Conferences
 Description of this piece, project, or publication. Add an image, a link, a date — whatever context helps a reader understand it.
 
-### Item Title
+### Organizations
 Description. Keep the format consistent across entries.
+
+### Internal

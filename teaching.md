@@ -33,7 +33,8 @@ A second paragraph here works well. You can use this space to describe your meth
 
 ### DH for Librarians
 *Digital Humanities Summer Institute, 2025*
-One sentence describing the course and who it's for.
+
+This course will focus on the processes and methods of digital humanities and how they intersect with librarianship practice. We will start by considering big picture questions: how have librarians approached “doing DH” and “supporting DH” in libraries, what has the practice of DH librarianship been, and what could the future of DH in libraries be? From there, we will survey different aspects of DH in librarianship in more detail, including assessment and strategic planning, reference and consultation, instruction, project management, and collaborative partnerships. Along the way, we will explore key resources, methods, and tools, as well as threshold concepts, data literacy, and relationships to other parts of academic libraries. This course combines lecture, seminar, and hands-on activities. 
 
 ## Workshops
 

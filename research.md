@@ -4,14 +4,19 @@ layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 1
-summary: My research focuses on digital pedagogy, the intersection of digital humanities and librarianship, and information literacy.
+summary: My professional research focuses on digital pedagogy, the intersection of digital humanities and librarianship, and information literacy and academic librarianship. My scholarly research focuses on Arthurian Literature and Victorian Literature.
 thumbnail: assets/images/Cleve-van_construction-tower-babel.jpg
 ---
 
 ## Research Interests
 
-Write two or three paragraphs describing your research questions, methods, and fields. You don't need to cover everything — aim for something a curious non-specialist can follow. What problem are you working on? Why does it matter? What approaches do you bring to it?
+My research interests lie in three main areas: academic librarainship and instrcution; digital humanities, pedagogy, and libraries; and Arthurian and Victorian Literature.
 
+Paragraph on Libray Research
+
+Paragrpah on DH Research
+
+Paragraph on Literary Research
 ---
 ## Research in Progress
 
@@ -25,7 +30,6 @@ Smith, J. A. T. & Hogan, R. N. (2022, November 5). Scaffolding Text Encoding. Th
 Verostek, J. & Hogan, R. (2023, February). ESF. SUNYLA News, 53(1), 12 – 13, https://www.sunyla.org/sunyla_docs/newsletters/2023feb.pdf.
 
 ## Digital Projects 
-Some summary of the different roles that I have had in digital projects and how that ties to my work as a librarian.
 
 ### Black Women's Diaries Project (In Development)
 

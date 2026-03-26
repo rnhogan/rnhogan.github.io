@@ -38,6 +38,13 @@ This course will focus on the processes and methods of digital humanities and ho
 
 ## Workshops
 
+### Digital Humanities Workshop: Introduction to Text Mining with the HathiTrust Research Center
+
+Patrick Williams (Humanities Librarian and Lead Librarian for Digital and Open Scholarship) and Rachel Hogan (iSchool Graduate Student) will present an Introduction to Text Mining with the HathiTrust Research Center, a hands-on workshop. Rachel and Patrick will present an overview of text mining & HathiTrust in general and will focus on the ways we can make use of the HathiTrust Research Center to undertake our own experiments. No programming experience is necessary. Participants will learn to create their own research collections and perform text analysis activities like creating token counts and tag clouds, extracting and visualizing named entities, and exploring topic modeling approaches.
+
+Intended Audience: Undergraduate Students, Graduate Students
+
+
 ### Exploring DH 
 
 Digital Humanities (DH) is an interdisciplinary academic field that applies the computational tools and skills of data science and related fields to humanities and arts disciplines. It also applies critical thinking from the arts and humanities to the digital world that we live in today. DH is largely concerned with pedagogy and scholarship and inspires innovation in teaching, learning, and research. This workshop will cover the foundations of digital humanities and some common methods and tools.  

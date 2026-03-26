@@ -5,7 +5,7 @@ date: 2024-12-02
 ---
 
 
-# Your Name
+# Rachel N. Hogan
 
 I am a librarain interested in academic librarianship, information literacy, digital humanites, arts-based research, and arthurian literature.
 ---
